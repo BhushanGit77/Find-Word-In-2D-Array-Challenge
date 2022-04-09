@@ -10,4 +10,5 @@ This process is followed until word is found or the 2D array has completed one f
 **Complilation and Run Instructions**
 
 <$JAVA_BIN> javac FindWord.java
+
 <$JAVA_BIN> java FindWord
